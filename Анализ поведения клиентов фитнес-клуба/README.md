@@ -2,7 +2,7 @@
 
 
 ## Используемые библиотеки
-Pandas, Matplotlib, Seaborn, NumPy, Sklearn, SciPy
+Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, SciPy
 
 
 ## Данные
