@@ -2,7 +2,7 @@
 
 
 ## Используемые библиотеки
-Pandas, Matplotlib, Seaborn, NumPy
+Pandas, Matplotlib, Seaborn, NumPy, SciPy
 
 
 ## Данные
